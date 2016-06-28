@@ -6,7 +6,7 @@ package com.zxhy.xjl.picturelines.service;
 import java.io.File;
 
 /**
- * @author LinHd
+ * @author lenovo
  *
  */
 public interface QRPicService {
