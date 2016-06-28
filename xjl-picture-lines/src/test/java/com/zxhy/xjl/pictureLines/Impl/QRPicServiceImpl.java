@@ -11,7 +11,7 @@ import com.zxhy.xjl.picturelines.util.ImageUtil;
 import com.zxhy.xjl.picturelines.util.QRCodeUtil;
 
 /**
- * @author LinHd
+ * @author lenovo
  *
  */
 public class QRPicServiceImpl implements QRPicService {
